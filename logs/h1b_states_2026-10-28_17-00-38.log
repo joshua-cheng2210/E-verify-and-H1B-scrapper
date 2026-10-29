@@ -1,0 +1,84 @@
+=== Started 2026-10-28 17:00:39: --log logs\h1b_states_2026-10-28_17-00-38.log
+FY2009: 68,870 rows from archive CSV
+FY2010: 55,407 rows from archive CSV
+FY2011: 62,847 rows from archive CSV
+FY2012: 56,215 rows from archive CSV
+FY2013: 56,070 rows from archive CSV
+FY2014: 56,584 rows from archive CSV
+FY2015: 48,537 rows from archive CSV
+FY2016: 53,117 rows from archive CSV
+FY2017: 49,774 rows from archive CSV
+FY2018: 55,659 rows from archive CSV
+FY2019: 59,437 rows from archive CSV
+FY2020: 55,237 rows from archive CSV
+FY2021: 60,803 rows from archive CSV
+FY2022: 59,975 rows from archive CSV
+FY2023: 30,857 rows from archive CSV
+Dashboard years 2024, 2025, 2026 x 62 state(s)
+FY2024: 53,738 rows from dashboard (87s)
+FY2025: 55,568 rows from dashboard (97s)
+FY2026: 55,608 rows from dashboard (68s)
+AA: 3 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers AA.csv
+AE: 7 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers AE.csv
+AK: 736 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers AK.csv
+AL: 5,025 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers AL.csv
+AP: 3 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers AP.csv
+AR: 3,027 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers AR.csv
+AS: 1 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers AS.csv
+AZ: 11,943 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers AZ.csv
+CA: 190,740 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers CA.csv
+CO: 10,710 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers CO.csv
+CT: 13,616 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers CT.csv
+DC: 9,990 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers DC.csv
+DE: 4,146 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers DE.csv
+FL: 50,952 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers FL.csv
+FM: 1 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers FM.csv
+GA: 31,062 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers GA.csv
+GU: 1,872 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers GU.csv
+HI: 1,841 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers HI.csv
+IA: 4,649 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers IA.csv
+ID: 1,195 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers ID.csv
+IL: 46,471 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers IL.csv
+IN: 8,945 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers IN.csv
+KS: 5,191 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers KS.csv
+KY: 4,730 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers KY.csv
+LA: 5,198 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers LA.csv
+MA: 44,401 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers MA.csv
+MD: 20,574 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers MD.csv
+ME: 1,480 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers ME.csv
+MH: 1 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers MH.csv
+MI: 30,712 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers MI.csv
+MN: 12,375 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers MN.csv
+MO: 10,668 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers MO.csv
+MP: 640 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers MP.csv
+MS: 2,084 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers MS.csv
+MT: 650 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers MT.csv
+NC: 18,002 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers NC.csv
+ND: 1,331 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers ND.csv
+NE: 3,657 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers NE.csv
+NH: 3,144 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers NH.csv
+NJ: 64,455 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers NJ.csv
+NM: 2,449 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers NM.csv
+NV: 4,169 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers NV.csv
+NY: 117,757 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers NY.csv
+OH: 19,872 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers OH.csv
+OK: 4,744 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers OK.csv
+OR: 5,253 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers OR.csv
+PA: 30,991 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers PA.csv
+PR: 1,047 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers PR.csv
+RI: 2,461 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers RI.csv
+SC: 5,811 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers SC.csv
+SD: 975 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers SD.csv
+TN: 9,026 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers TN.csv
+TX: 93,489 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers TX.csv
+UT: 5,921 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers UT.csv
+VA: 33,806 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers VA.csv
+VI: 279 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers VI.csv
+VT: 1,128 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers VT.csv
+WA: 18,412 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers WA.csv
+WI: 8,395 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers WI.csv
+WV: 1,356 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers WV.csv
+WY: 715 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers WY.csv
+XX: 19 rows -> C:\Users\Admin\Documents\Claude\Projects\CS\H1B\H1B Employers XX.csv
+Done. 994,303 rows in 62 files.
+=== Finished 2026-10-28 17:05:04
